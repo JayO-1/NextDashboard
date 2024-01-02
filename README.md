@@ -1,2 +1,2 @@
 # NextDashboard
-Simple financial dashboard made using Next.js
+> Simple financial dashboard made using Next.js
